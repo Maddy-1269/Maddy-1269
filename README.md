@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta Madisetty</h1>
-<h3 align="center">A passionate Associate developer</h3>
+<h3 align="center">A passionate AWS DEVOPS ENGINEER</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddy-1269" alt="maddy-1269" /></a> </p>
 
