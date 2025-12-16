@@ -36,7 +36,46 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
   </a>
 
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githu
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+         alt="Docker" width="40" height="40" style="margin:10px;"/>
+  </a>
+
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+         alt="Kubernetes" width="40" height="40" style="margin:10px;"/>
+  </a>
+
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+         alt="Jenkins" width="40" height="40" style="margin:10px;"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+         alt="Git" width="40" height="40" style="margin:10px;"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         alt="GitHub" width="40" height="40" style="margin:10px;"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+         alt="Linux" width="40" height="40" style="margin:10px;"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="MySQL" width="40" height="40" style="margin:10px;"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+         alt="PostgreSQL" width="40" height="40" style="margin:10px;"/>
+  </a>
+</p>
+
 
 
 ---
