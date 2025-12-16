@@ -20,63 +20,24 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+         alt="AWS" width="40" height="40" style="margin:10px;"/>
+  </a>
 
-<!-- AWS -->
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
+         alt="Terraform" width="40" height="40" style="margin:10px;"/>
+  </a>
 
-<!-- Terraform -->
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-</a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
+         alt="Ansible" width="40" height="40" style="margin:10px;"/>
+  </a>
 
-<!-- Ansible -->
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
-</a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githu
 
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</a>
-
-<!-- Kubernetes -->
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</a>
-
-<!-- Jenkins -->
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-</a>
-
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
-
-<!-- Linux -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
-
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-
-</p>
 
 ---
 
