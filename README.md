@@ -24,8 +24,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 <h3 align="left">📘 Currently Learning</h3>
 
 <ul>
-  <li>Advanced Terraform (modules, remote state, best practices)</li>
-  <li>AWS Security & IAM</li>
+  <li>AWS Security</li>
   <li>Kubernetes fundamentals</li>
 </ul>
 
@@ -35,7 +34,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 <ul>
   <li>AWS DevOps Engineer</li>
-  <li>Cloud / DevOps Engineer (Junior – Mid Level)</li>
+  <li>DevOps Engineer<li>
 </ul>
 
 ---
