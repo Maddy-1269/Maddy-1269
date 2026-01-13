@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Madisetty+Manikanta;AWS+DevOps+Engineer" />
 </h1>
 
-<h3 align="center" style="color:#36BCF7;">AWS DevOps Engineer</h3>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+DevOps+Engineer" />
+  
+</h3>
 
 <p align="center">
 I am an AWS DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, automation, and container orchestration.
