@@ -1,13 +1,42 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+👋,+I'm+Madisetty+Manikanta" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Madisetty+Manikanta;AWS+DevOps+Engineer" />
 </h1>
 
 <h3 align="center">AWS DevOps Engineer</h3>
 
 <p align="center">
-I am an AWS DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, automation, and container orchestration. 
+I am an AWS DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, automation, and container orchestration.
 I focus on building scalable, reliable, and secure cloud-native solutions using DevOps best practices.
 </p>
+
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<ul>
+  <li><b>AWS 3-Tier Architecture</b> – Deployed a production-grade Java application using AWS, Terraform, Auto Scaling, RDS (Multi-AZ), CloudFront, and Docker</li>
+  <li><b>Dockerized Java Web Application</b> – Nginx + Tomcat + MySQL using Docker & docker-compose</li>
+  <li><b>CI/CD Automation</b> – Automated build and deployment pipelines using Jenkins and GitHub</li>
+</ul>
+
+---
+
+<h3 align="left">📘 Currently Learning</h3>
+
+<ul>
+  <li>Advanced Terraform (modules, remote state, best practices)</li>
+  <li>AWS Security & IAM</li>
+  <li>Kubernetes fundamentals</li>
+</ul>
+
+---
+
+<h3 align="left">💼 Open to Opportunities</h3>
+
+<ul>
+  <li>AWS DevOps Engineer</li>
+  <li>Cloud / DevOps Engineer (Junior – Mid Level)</li>
+</ul>
 
 ---
 
@@ -23,63 +52,18 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-         alt="AWS" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
-         alt="Terraform" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
-         alt="Ansible" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-         alt="Docker" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-         alt="Kubernetes" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-         alt="Jenkins" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         alt="Git" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         alt="GitHub" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-         alt="Linux" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="MySQL" width="40" height="40" style="margin:10px;"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         alt="PostgreSQL" width="40" height="40" style="margin:10px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
-
-
 
 ---
 
