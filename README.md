@@ -11,7 +11,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left"> Featured Projects</h3>
 
 <ul>
   <li><b>AWS 3-Tier Architecture</b> – Deployed a production-grade Java application using AWS, Terraform, Auto Scaling, RDS (Multi-AZ), CloudFront, and Docker</li>
@@ -21,7 +21,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left">📘 Currently Learning</h3>
+<h3 align="left"> Currently Learning</h3>
 
 <ul>
   <li>AWS Security</li>
@@ -30,12 +30,13 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left">💼 Open to Opportunities</h3>
+<h3 align="left"> Open to Opportunities</h3>
 
 <ul>
   <li>AWS DevOps Engineer</li>
   <li>DevOps Engineer<li>
 </ul>
+
 ---
 
 <h3 align="left">🤝 Connect with me:</h3>
