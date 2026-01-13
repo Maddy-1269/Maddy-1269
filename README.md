@@ -29,11 +29,11 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left"> Open to Opportunities</h3>
+<h3 align="left" style="color:#36BCF7;">💼 Open to Opportunities</h3>
 
 <ul>
   <li>AWS DevOps Engineer</li>
-  <li>DevOps Engineer<li>
+  <li>DevOps Engineer</li>
 </ul>
 
 ---
