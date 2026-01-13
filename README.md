@@ -11,7 +11,6 @@
     &lines=Hi+👋,+I'm+Manikanta+Madisetty"
     alt="Typing SVG" />
 </h1>
-disetty</h1>
 <h3 align="center">AWS DevOps Engineer</h3>
 
 <p align="center">
