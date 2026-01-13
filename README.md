@@ -1,15 +1,38 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Madisetty+Manikanta" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Madisetty+Manikanta" />
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+DevOps+Engineer" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+DevOps+Engineer" />
 </h3>
 
 <p align="center">
 I am an AWS DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, automation, and container orchestration.
 I focus on building scalable, reliable, and secure cloud-native solutions using DevOps best practices.
+</p>
+
+---
+
+<h3 align="left" style="color:#36BCF7;">🧠 What I Do</h3>
+
+<p>
+🔹 Design and deploy scalable cloud infrastructure on AWS<br/>
+🔹 Automate infrastructure using Terraform and DevOps best practices<br/>
+🔹 Build CI/CD pipelines for reliable application delivery<br/>
+🔹 Containerize and deploy applications using Docker<br/>
+🔹 Ensure security, scalability, and high availability
+</p>
+
+---
+
+<h3 align="left" style="color:#36BCF7;">🏆 Highlights</h3>
+
+<p>
+✔ Built a production-grade AWS 3-Tier Architecture<br/>
+✔ Implemented Auto Scaling, Load Balancers, and Multi-AZ RDS<br/>
+✔ Automated infrastructure provisioning using Terraform modules<br/>
+✔ Deployed Dockerized Java applications (Nginx + Tomcat + MySQL)<br/>
+✔ Implemented CI/CD automation using Jenkins and GitHub
 </p>
 
 ---
@@ -27,28 +50,42 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 <h3 align="left" style="color:#36BCF7;">📘 Currently Learning</h3>
 
 <ul>
-  <li>AWS Security</li>
+  <li>AWS Security & IAM</li>
   <li>Kubernetes fundamentals</li>
+  <li>Advanced Terraform best practices</li>
 </ul>
-
 
 ---
 
 <h3 align="left" style="color:#36BCF7;">💼 Open to Opportunities</h3>
 
 <p>
-🔹 AWS DevOps Engineer <br/>
+🔹 AWS DevOps Engineer<br/>
 🔹 DevOps Engineer
 </p>
 
-
 ---
 
-<h3 align="left"> Connect with me:</h3>
+<h3 align="left" style="color:#36BCF7;">🤝 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manikanta-madisetty-496118209/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+</p>
+
+---
+
+<h3 align="left" style="color:#36BCF7;">⚙️ Tech Stack</h3>
+
+<p>
+<b>Cloud:</b> AWS<br/>
+<b>Infrastructure as Code:</b> Terraform<br/>
+<b>Configuration Management:</b> Ansible<br/>
+<b>Containers:</b> Docker, Docker Compose<br/>
+<b>CI/CD:</b> Jenkins, GitHub<br/>
+<b>Orchestration:</b> Kubernetes (Basics)<br/>
+<b>Operating System:</b> Linux (Ubuntu)<br/>
+<b>Databases:</b> MySQL, PostgreSQL
 </p>
 
 ---
@@ -70,7 +107,6 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </p>
-
 
 ---
 
