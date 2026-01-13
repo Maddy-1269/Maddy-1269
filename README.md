@@ -110,6 +110,15 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
+<h3 align="left" style="color:#36BCF7;">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maddy-1269&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy-1269&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
 <p align="center">
 ⭐ Feel free to explore my repositories and connect with me!
 </p>
