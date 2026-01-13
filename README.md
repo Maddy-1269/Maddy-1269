@@ -36,7 +36,6 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
   <li>AWS DevOps Engineer</li>
   <li>DevOps Engineer<li>
 </ul>
-
 ---
 
 <h3 align="left">🤝 Connect with me:</h3>
