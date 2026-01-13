@@ -21,20 +21,23 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left" style="color:#2EA44F;">📘 Currently Learning</h3>
+<h3 align="left" style="color:#36BCF7;">📘 Currently Learning</h3>
+
 <ul>
   <li>AWS Security</li>
   <li>Kubernetes fundamentals</li>
 </ul>
 
+
 ---
 
 <h3 align="left" style="color:#36BCF7;">💼 Open to Opportunities</h3>
 
-<ul>
-  <li>AWS DevOps Engineer</li>
-  <li>DevOps Engineer</li>
-</ul>
+<p>
+🔹 AWS DevOps Engineer <br/>
+🔹 DevOps Engineer
+</p>
+
 
 ---
 
