@@ -67,10 +67,12 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 ---
 
 <h3 align="left" style="color:#36BCF7;">🤝 Connect with me</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/manikanta-madisetty-496118209/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/manikanta-madisetty-496118209/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -106,15 +108,6 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</p>
-
----
-
-<h3 align="left" style="color:#36BCF7;">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maddy-1269&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy-1269&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
