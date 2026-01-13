@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Madisetty+Manikanta;AWS+DevOps+Engineer" />
 </h1>
 
-<h3 align="center">AWS DevOps Engineer</h3>
+<h3 align="center" style="color:#36BCF7;">AWS DevOps Engineer</h3>
 
 <p align="center">
 I am an AWS DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, automation, and container orchestration.
@@ -11,7 +11,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left"> Featured Projects</h3>
+<h3 align="left" style="color:#36BCF7;">🚀 Featured Projects</h3>
 
 <ul>
   <li><b>AWS 3-Tier Architecture</b> – Deployed a production-grade Java application using AWS, Terraform, Auto Scaling, RDS (Multi-AZ), CloudFront, and Docker</li>
@@ -21,8 +21,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left"> Currently Learning</h3>
-
+<h3 align="left" style="color:#2EA44F;">📘 Currently Learning</h3>
 <ul>
   <li>AWS Security</li>
   <li>Kubernetes fundamentals</li>
@@ -48,7 +47,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left"> Languages and Tools:</h3>
+<h3 align="left" style="color:#36BCF7;">🛠️ Languages and Tools</h3>
 
 <p align="left">
 
