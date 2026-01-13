@@ -39,7 +39,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manikanta-madisetty-496118209/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -48,7 +48,7 @@ I focus on building scalable, reliable, and secure cloud-native solutions using 
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 
 <p align="left">
 
